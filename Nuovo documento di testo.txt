@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modifica 1 in Copia
+=======
+Copia 2M after Checkout B
+>>>>>>> a8d0da0365a88faea30034b1340ad9ad22a8d63b
